@@ -6,7 +6,7 @@
 
 ## 📌 Visão Geral
 
-Este repositório centraliza o desenvolvimento do Trabalho de Conclusão de Curso (TCC), com foco na evolução tecnológica de uma **plantadeira vertical de cana-de-açúcar**.
+Esta organização centraliza o desenvolvimento do Trabalho de Conclusão de Curso (TCC), com foco na evolução tecnológica de uma **plantadeira vertical de cana-de-açúcar**.
 
 A proposta do projeto é utilizar **Inteligência Artificial 🤖** para substituir sistemas mecânicos complexos por uma abordagem mais eficiente, baseada em:
 
